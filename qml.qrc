@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>NewTask.qml</file>
+        <file>TaskUser.qml</file>
+        <file>Mybutton.qml</file>
+        <file>Mybutton.png</file>
+    </qresource>
+</RCC>
